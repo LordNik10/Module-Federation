@@ -1,0 +1,13 @@
+.counter-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 5%;
+}
+
+.counter-btn {
+  width: 70px;
+  height: 70px;
+  font-size: 50px;
+  cursor: pointer;
+}
